@@ -44,4 +44,4 @@ install chsql from community;
 .exit
 ```
 
-[分析 csv](05-csv.md) | [返回](readme.md)
+[分析 csv](05-csv.md) | [返回](README.md)

@@ -20,4 +20,4 @@
 ]
 ```
 
-[尝鲜](03-start.md) | [返回](readme.md)
+[尝鲜](03-start.md) | [返回](README.md)

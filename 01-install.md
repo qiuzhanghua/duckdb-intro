@@ -121,4 +121,4 @@ tdp i plugin/duckdb_1.0.0_your-os_your-cpu.tar.gz
 
 并重新启动 Terminal.
 
-[配置 vscode](02-vscode.md) | [返回](readme.md)
+[配置 vscode](02-vscode.md) | [返回](README.md)

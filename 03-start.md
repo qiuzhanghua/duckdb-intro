@@ -44,4 +44,4 @@ show tables;
 .exit
 ```
 
-[DuckDB 扩展](04-extensions.md) | [返回](readme.md)
+[DuckDB 扩展](04-extensions.md) | [返回](README.md)
