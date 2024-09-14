@@ -1,6 +1,7 @@
 .idea
 .vscode
 sample.duckdb*
+sqlite_file.db
 
 # General
 .DS_Store

@@ -7,3 +7,4 @@ DuckDB is a fast in-process analytical database.
 3.  [DuckDB 尝鲜](03-start.md)
 4.  [DuckDB 扩展](04-extensions.md)
 5.  [分析 csv](05-csv.md)
+6.  [使用 SQLite](06-sqlite.md)

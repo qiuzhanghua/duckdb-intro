@@ -50,32 +50,32 @@ Options:
 #### 1). 为 Linux 生成
 
 ```bash
-./pack-duckdb.py -v 1.0.0
+./pack-duckdb.py -v 1.1.0
 ```
 
 会生成
 
-> ./plugin/duckdb_1.0.0_linux_amd64.tar.gz
+> ./plugin/duckdb_1.1.0_linux_amd64.tar.gz
 
 如果要生成 ARM64 版本的，则运行
 
 ```bash
-./pack-duckdb.py -v 1.0.0 -a arm64
+./pack-duckdb.py -v 1.1.0 -a arm64
 ```
 
 生成
 
-> ./plugin/duckdb_1.0.0_linux_arm64.tar.gz
+> ./plugin/duckdb_1.1.0_linux_arm64.tar.gz
 
 #### 2). 为 Window 生成
 
 ```bash
-./pack-duckdb.py -p windows -v 1.0.0
+./pack-duckdb.py -p windows -v 1.1.0
 ```
 
 会生成
 
-> ./plugin/duckdb_1.0.0_windows_amd64.tar.gz
+> ./plugin/duckdb_1.1.0_windows_amd64.tar.gz
 
 如果要生成 ARM64 版本的，则运行
 
@@ -90,22 +90,22 @@ Options:
 #### 3) 为 Mac 生成
 
 ```bash
-./pack-duckdb.py -p darwin -v 1.0.0
+./pack-duckdb.py -p darwin -v 1.1.0
 ```
 
 会生成
 
-> ./plugin/duckdb_1.0.0_darwin_amd64.tar.gz
+> ./plugin/duckdb_1.1.0_darwin_amd64.tar.gz
 
 如果要生成 ARM64 版本的，则运行
 
 ```bash
-./pack-duckdb.py -p darwin -v 1.0.0 -a arm64
+./pack-duckdb.py -p darwin -v 1.1.0 -a arm64
 ```
 
 生成
 
-> ./plugin/duckdb_1.0.0_darwin_arm64.tar.gz
+> ./plugin/duckdb_1.1.0_darwin_arm64.tar.gz
 
 #### 4）生成时如果报错，则 Python 需要先安装一些组件，类似
 
@@ -116,7 +116,7 @@ pip install wget click
 ### 4. 安装 DuckDB
 
 ```bash
-tdp i plugin/duckdb_1.0.0_your-os_your-cpu.tar.gz
+tdp i plugin/duckdb_1.1.0_your-os_your-cpu.tar.gz
 ```
 
 并重新启动 Terminal.
