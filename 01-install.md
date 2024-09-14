@@ -26,7 +26,7 @@ cd tdp-scripts
 
 ### 3. 生成 DuckDB 的插件(适用于 TDP)
 
-- 查看能为那些操作系统生成
+- 查看能为哪些操作系统生成
 
 ```bash
 ./pack-duckdb.py --help
