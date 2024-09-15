@@ -9,5 +9,4 @@ DuckDB is a fast in-process analytical database.
 5.  [分析 csv](05-csv.md)
 6.  [使用 SQLite](06-sqlite.md)
 7.  [使用 PostgreSQL](07-pg.md)
-    ...
 8.  [使用 Python](10-python.md)
