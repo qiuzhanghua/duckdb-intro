@@ -45,4 +45,4 @@ left join sqlite_db.cities as c on s.cityCode = c.code;
 .exit
 ```
 
-[返回](README.md)
+[使用 PostgreSQL](07-pg.md) | [返回](README.md)
