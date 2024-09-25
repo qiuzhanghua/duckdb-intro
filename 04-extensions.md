@@ -20,6 +20,9 @@ select * from duckdb_extensions();
 
 ```sql
 install arrow;
+install aws;
+install azure;
+install delta;
 install excel;
 install fts;
 install httpfs;
@@ -30,6 +33,8 @@ install postgres;
 install spatial;
 install sqlite;
 install vss;
+install tpcds;
+install tpch;
 
 -- clickhouse
 install chsql from community;
